@@ -1,2 +1,2 @@
 # datasets-
-various data sets for projects I have worked on
+a few data sets to play with
