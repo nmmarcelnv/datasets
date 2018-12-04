@@ -13,3 +13,6 @@ This is a dataset for cat images. each row is for one image and each image has d
 64 pixel in y
 each pizel has 3 panels (RGB)
 The last column is the label (1 cat, 0 non-cat)
+
+final_projec_data : this is the dataset for the kaggle competition to predict future sale 
+https://www.kaggle.com/c/competitive-data-science-final-project/data
