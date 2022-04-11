@@ -1,5 +1,14 @@
-# datasets-
-a few data sets to play with
+# Datasets and Links 
+- [UCI Machine Learning Repo](https://archive.ics.uci.edu/ml/datasets.php)
+- [Kaggle](https://www.kaggle.com/datasets)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [AWS Open Data Registry](https://registry.opendata.aws/)
+- [Wikipedia Datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+- [Awesome Public Dataset, Github](https://github.com/awesomedata/awesome-public-datasets)
+- [Big-Bad NLP Datasets](https://datasets.quantumstat.com/)
+- [Bureau of Transportation Statistics](https://www.bts.gov/browse-statistical-products-and-data)
+- [Visual Data, Deep Learning](https://www.visualdata.io/discovery)
+- [Recommender Systems](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 
 GHE2015_Deaths_2000_AllAges.csv : data on worldwide disease burden separated into age groups
 GHE2015_Deaths_2000_country.csv : data on worldwide disease burden all age groups combined
