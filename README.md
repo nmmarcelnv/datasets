@@ -10,6 +10,9 @@
 - [Visual Data, Deep Learning](https://www.visualdata.io/discovery)
 - [Recommender Systems](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 
+# Sample Project Ideas
+- [24 Projects Examples](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
+
 GHE2015_Deaths_2000_AllAges.csv : data on worldwide disease burden separated into age groups
 GHE2015_Deaths_2000_country.csv : data on worldwide disease burden all age groups combined
 countries_codes_geo_locations.csv : country names and latitude-longitude coordinates
